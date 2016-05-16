@@ -1,0 +1,18 @@
+#header{
+  background-color: black;
+  text-align: center;
+}
+html,body{
+  margin:0;
+  padding: 0px;
+}
+#header li{
+  color: yellow;
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+
+}
+#header ul {
+  margin:0px;
+}
